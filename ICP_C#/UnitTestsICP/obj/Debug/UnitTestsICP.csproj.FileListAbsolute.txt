@@ -1,0 +1,5 @@
+G:\SourcesNew\bin\UnitTestsICP.dll
+G:\SourcesNew\bin\UnitTestsICP.pdb
+G:\SourcesNew\UnitTestsICP\obj\Debug\UnitTestsICP.csprojResolveAssemblyReference.cache
+G:\SourcesNew\UnitTestsICP\obj\Debug\UnitTestsICP.dll
+G:\SourcesNew\UnitTestsICP\obj\Debug\UnitTestsICP.pdb

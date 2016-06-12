@@ -1,0 +1,12 @@
+G:\SourcesNew\OpenTKLib\obj\Debug\OpenTKLib.csprojResolveAssemblyReference.cache
+G:\SourcesNew\OpenTKLib\obj\Debug\OpenTKLib.OpenTKTestForm.resources
+G:\SourcesNew\OpenTKLib\obj\Debug\OpenTKLib.AboutForm.resources
+G:\SourcesNew\OpenTKLib\obj\Debug\OpenTKLib.SettingsForm.resources
+G:\SourcesNew\OpenTKLib\obj\Debug\OpenTKLib.Properties.Resources.resources
+G:\SourcesNew\OpenTKLib\obj\Debug\OpenTKLib.OpenGLControl.resources
+G:\SourcesNew\OpenTKLib\obj\Debug\OpenTKLib.csproj.GenerateResource.Cache
+G:\SourcesNew\bin\OpenTKLib.dll.config
+G:\SourcesNew\bin\OpenTKLib.dll
+G:\SourcesNew\bin\OpenTKLib.pdb
+G:\SourcesNew\OpenTKLib\obj\Debug\OpenTKLib.dll
+G:\SourcesNew\OpenTKLib\obj\Debug\OpenTKLib.pdb

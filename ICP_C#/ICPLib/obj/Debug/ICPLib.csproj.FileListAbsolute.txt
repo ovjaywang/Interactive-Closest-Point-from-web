@@ -1,0 +1,15 @@
+G:\SourcesNew\ICPLib\bin\Debug\ICPLib.pdb
+G:\SourcesNew\ICPLib\bin\Debug\OpenTK.dll
+G:\SourcesNew\ICPLib\bin\Debug\OpenTKLib.dll
+G:\SourcesNew\ICPLib\bin\Debug\MIConvexHull.dll
+G:\SourcesNew\ICPLib\bin\Debug\OpenCLTemplate.dll
+G:\SourcesNew\ICPLib\bin\Debug\OpenTK.GLControl.dll
+G:\SourcesNew\ICPLib\bin\Debug\OpenTKLib.pdb
+G:\SourcesNew\ICPLib\bin\Debug\MIConvexHull.pdb
+G:\SourcesNew\ICPLib\bin\Debug\MIConvexHull.xml
+G:\SourcesNew\ICPLib\obj\Debug\ICPLib.csprojResolveAssemblyReference.cache
+G:\SourcesNew\ICPLib\obj\Debug\ICPLib.ICPTestForm.resources
+G:\SourcesNew\ICPLib\obj\Debug\ICPLib.csproj.GenerateResource.Cache
+G:\SourcesNew\ICPLib\obj\Debug\ICPLib.pdb
+G:\SourcesNew\ICPLib\bin\Debug\ICPLib.exe
+G:\SourcesNew\ICPLib\obj\Debug\ICPLib.exe

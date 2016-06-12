@@ -1,0 +1,5 @@
+G:\SourcesNew\bin\MIConvexHull.dll
+G:\SourcesNew\bin\MIConvexHull.pdb
+G:\SourcesNew\bin\MIConvexHull.xml
+G:\SourcesNew\MIConvexHull\obj\Debug\MIConvexHull.dll
+G:\SourcesNew\MIConvexHull\obj\Debug\MIConvexHull.pdb
